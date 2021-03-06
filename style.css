@@ -1,0 +1,42 @@
+html,body {
+  /* font-family: 'Raleway', sans-serif; */
+  font-family: 'Roboto', sans-serif;
+  padding: 1em 2em;
+  font-size: 14px;
+  background: #ffffff;
+  color: #1f323f
+}
+
+h1,h2 {
+  font-weight: 200;
+  margin: 0.4em 0;
+}
+h1 { font-size: 3.5em; }
+h2 {
+  font-size: 2em;
+  margin-top: 50px;
+}
+
+p {
+  margin-top: -10px;
+}
+
+#fico-blue {
+  color: #00609c;
+}
+
+#fico-decision {
+  color: #2680ff;
+}
+
+#fico-customer {
+  color: #008766;
+}
+
+#fico-collection {
+  color: #664fba;
+}
+
+#fico-fraud {
+  color: #de5c38;
+}
